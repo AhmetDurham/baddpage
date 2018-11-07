@@ -1,7 +1,7 @@
 ---
 title: Boundless Technology Lightweight Vapes Meet up with the CFV, CFX & Tera
 date: 2018-8-25 13:00:00
-category: Vaporizers Review
+category: vaporizers review
 tags:
 	- brand
 	- innovations
