@@ -1,7 +1,7 @@
 ---
 title: VapeFuse Breakdown Crave Onix vs DaVinci IQ
 date: 2018-8-17 14:10:00
-category: Health And Lifestyle
+category: health and lifestyle
 tags:
 	- brand
 	- health
