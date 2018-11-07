@@ -1,7 +1,7 @@
 ---
 title: Making DIY Canna Caps with Your AVB
 date: 2018-8-22 10:35:00
-category: Vape Stories
+category: vape stories
 tags:
 	- Do-It-Yourself
 ---
