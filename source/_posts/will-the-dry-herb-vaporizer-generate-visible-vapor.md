@@ -1,7 +1,7 @@
 ---
 title: Will the Dry Herb Vaporizer Generate Visible Vapor
 date: 2018-9-12 08:00:00
-category: Smoking To Vaping
+category: smoking to vaping
 tags:
 	- dry herb
 ---
