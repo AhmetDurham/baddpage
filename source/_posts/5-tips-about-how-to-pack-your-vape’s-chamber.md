@@ -1,7 +1,7 @@
 ---
 title: 5 Tips about how to Pack Your Vape's Chamber
 date: 2018-9-13 11:25:00
-category: Vaping Tips
+category: vaping tips
 tags:
 	- Do-It-Yourself
 ---
