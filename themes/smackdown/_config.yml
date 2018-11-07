@@ -1,9 +1,9 @@
 # Header
 menu:
   Home: /
-  Archive: /archives
-  About: /about
-  Categories: /categories
+  Archive: /archives/
+  About: /about/
+  Categories: /categories/
 
 # SubNav
 subnav:
