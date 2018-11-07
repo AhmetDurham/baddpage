@@ -1,7 +1,7 @@
 ---
 title: Manual Vape Review For DynaVap M 2018 vs. Iolite Original Portable Vape
 date: 2018-9-11 08:40:00
-category: Vaporizers Review
+category: vaporizers review
 tags:
 	- brand
 ---
