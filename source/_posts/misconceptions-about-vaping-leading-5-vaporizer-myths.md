@@ -1,7 +1,7 @@
 ---
 title: Misconceptions About Vaping - Leading 5 Vaporizer Myths
 date: 2018-9-25 10:23:00
-category: Health And Lifestyle
+category: health and lifestyle
 tags:
 	- health
 	- myth
