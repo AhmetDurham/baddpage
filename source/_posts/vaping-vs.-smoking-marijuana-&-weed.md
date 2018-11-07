@@ -1,7 +1,7 @@
 ---
 title: Vaping vs. Smoking Marijuana & Weed
 date: 2018-9-24 09:00:00
-category: Vaping Tips
+category: vaping tips
 tags:
 	- marijuana
 	- innovations
