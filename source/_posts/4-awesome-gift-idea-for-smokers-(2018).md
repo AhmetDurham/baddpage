@@ -1,7 +1,7 @@
 ---
 title: 4 Awesome Gift Idea for Smokers (2018)
 date: 2018-11-02 17:58:00
-category: Health And Lifestyle
+category: health and lifestyle
 tags:
 	- brand
 	- health
@@ -11,8 +11,6 @@ tags:
 
 Holiday season is coming soon. Many people have already started to prepare gifts for their family and friends. Whether you are looking for some ideal cigarette smoker gifts, or you want to help somebody who is trying to quit, this list should be able to give you some hint.
 
-<!-- more -->
-
 #### 1. Skincare Kit
 Smoking can speed up the normal aging process of your skin, contributing to wrinkles. The nicotine in cigarettes causes narrowing of the blood vessels in the outermost layers of your skin. This impairs blood flow to your skin. With less blood flow, skin doesn't get as much oxygen and important nutrients, such as vitamin A.
 
@@ -21,6 +19,8 @@ Moisturizer with Niacinimide, peptides and glycerin would be a good choice. Thes
 <center>
 ![](/images/15.png)
 </center>
+
+<!-- more -->
 
 #### 2. E-cigarette 
 In August 2018, Public Health England published an evidence review concludes that e-cigarettes are significantly less harmful to health than tobacco and have the potential to help smokers quit smoking.
